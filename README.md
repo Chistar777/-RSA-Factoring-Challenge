@@ -1,7 +1,7 @@
 # RSA-Factoring-Challenge
 
 ### Author :man_technologist:
-Naheemah Bello :nerd_face:
+Chidera Emmaunel Chukwuma :nerd_face:
 
 ## Acknowledgement :pray:
 This project is designed to factorize as many numbers as possible into a product of two smaller numbers.
